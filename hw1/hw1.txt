@@ -1,0 +1,33 @@
+Problem 1)
+Part a)
+	1. is ok
+	2. Not ok
+	3. Not ok
+	4. is ok
+	5. Not ok
+	6. Not ok
+	7. Not ok
+	8. Is ok
+part b)
+	1. geedit, not recommended
+	2. emacs, GNU emacs recommended
+	3. Eclispe, recommended
+	4. sublime, recommended
+	5. Microsoft Visual Studio, recommended
+	6. Notepad++
+part c)
+	1. Not true
+	2. True
+	3. Not true
+	4. Not true
+part d)
+	2. is true
+Problem 2:
+part a)
+	only 3. Terminal (Mac or Linux) is supported
+part b)
+	1. git add hw1q2b.cpp
+	2. git log
+	3. git commit will prepare the files in our repository to be ready to be comited.
+Problem 3)
+	1. 
